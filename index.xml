@@ -17,6 +17,16 @@
     </item>
     
     <item>
+      <title>About</title>
+      <link>https://databased.us/about/</link>
+      <pubDate>Wed, 22 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://databased.us/about/</guid>
+      <description>Collin Dougherty is a driven leader, problem solver, and researcher with a strong focus on efficiency. Pursuing a Master&amp;rsquo;s in Mathematics and Data Science, and holding degrees in Psychology and Mathematics, Collin has a unique skill set to tackle complex data science problems. He has experience in cancer research, sports analytics, and data analysis across multiple industries.
+Collin understands the importance of making data easy to interact with, and enjoys working with clients to deliver meaningful insights from complex data.</description>
+    </item>
+    
+    <item>
       <title>Markdown Syntax Guide</title>
       <link>https://databased.us/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
@@ -59,17 +69,6 @@
       
       <guid>https://databased.us/blog/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://databased.us/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://databased.us/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.</description>
     </item>
     
     <item>
